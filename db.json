@@ -1,0 +1,7 @@
+{
+  "items": [{ "id": 1, "productName": "Dishwasher" }],
+  "users": [
+    { "id": 1, "username": "John", "password": "3ksda3ss" },
+    { "id": 2, "username": "jcarloVs", "password": "1914tae" }
+  ]
+}

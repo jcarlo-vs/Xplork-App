@@ -1,0 +1,117 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "nevermind0202",
+      "password": "12345",
+      "profilePicture": "https://img.freepik.com/free-photo/handsome-young-man-with-arms-crossed-white-background_23-2148222620.jpg?w=826&t=st=1689575443~exp=1689576043~hmac=5da45dafa034979902094b448ccd94ba4e9e995d3c843405aec9a32aad81df25",
+      "followers": 200,
+      "following": 30,
+      "posts": [
+        {
+          "id": 1,
+          "image": "https://img.freepik.com/free-photo/sad-contemplative-person-near-lake_23-2150420661.jpg?w=1380&t=st=1689575543~exp=1689576143~hmac=4f9cf3140b0abfb9829021822c41e12b63ecd1ee20a2e7a9338d7d993ecaea95",
+          "description": "Lonely is the night",
+          "likes": 30,
+          "date": "December 2, 2022",
+          "comments": [
+            {
+              "username": "ronaldo",
+              "id": 1,
+              "comment": "woah this is great one!",
+              "date": "september 1, 2023"
+            }
+          ]
+        },
+
+        {
+          "id": 2,
+          "image": "https://img.freepik.com/free-photo/worried-girl-sitting-sand_1150-231.jpg?w=1380&t=st=1689575820~exp=1689576420~hmac=ce85ab68d0150d7b266cbf460e4483da78dbe3fde44240c9edb26bf1dbd321f4",
+          "description": "I just want peace",
+          "likes": 30,
+          "date": "December 12, 2022",
+          "comments": [
+            {
+              "username": "Jasterino",
+              "id": 2,
+              "comment": "I love this one!",
+              "date": "september 6, 2023"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "image": "https://img.freepik.com/free-photo/worried-girl-sitting-sand_1150-231.jpg?w=1380&t=st=1689575820~exp=1689576420~hmac=ce85ab68d0150d7b266cbf460e4483da78dbe3fde44240c9edb26bf1dbd321f4",
+          "description": "I just want peace",
+          "likes": 30,
+          "date": "December 12, 2022",
+          "comments": [
+            {
+              "username": "Jasterino",
+              "id": 2,
+              "comment": "I love this one!",
+              "date": "september 6, 2023"
+            }
+          ]
+        },
+
+        {
+          "id": 4,
+          "image": "https://img.freepik.com/free-photo/worried-girl-sitting-sand_1150-231.jpg?w=1380&t=st=1689575820~exp=1689576420~hmac=ce85ab68d0150d7b266cbf460e4483da78dbe3fde44240c9edb26bf1dbd321f4",
+          "description": "I just want peace",
+          "likes": 30,
+          "date": "December 12, 2022",
+          "comments": [
+            {
+              "username": "Jasterino",
+              "id": 2,
+              "comment": "I love this one!",
+              "date": "september 6, 2023"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "username": "nevermind0202",
+      "password": "12345",
+      "profilePicture": "https://img.freepik.com/free-photo/handsome-young-man-with-arms-crossed-white-background_23-2148222620.jpg?w=826&t=st=1689575443~exp=1689576043~hmac=5da45dafa034979902094b448ccd94ba4e9e995d3c843405aec9a32aad81df25",
+      "followers": 200,
+      "following": 30,
+      "posts": [
+        {
+          "id": 2,
+          "image": "https://img.freepik.com/free-photo/sad-contemplative-person-near-lake_23-2150420661.jpg?w=1380&t=st=1689575543~exp=1689576143~hmac=4f9cf3140b0abfb9829021822c41e12b63ecd1ee20a2e7a9338d7d993ecaea95",
+          "description": "Lonely is the night",
+          "likes": 30,
+          "date": "December 2, 2022",
+          "comments": [
+            {
+              "username": "ronaldo",
+              "id": 1,
+              "comment": "woah this is great one!",
+              "date": "september 1, 2023"
+            }
+          ]
+        },
+
+        {
+          "id": 3,
+          "image": "https://img.freepik.com/free-photo/worried-girl-sitting-sand_1150-231.jpg?w=1380&t=st=1689575820~exp=1689576420~hmac=ce85ab68d0150d7b266cbf460e4483da78dbe3fde44240c9edb26bf1dbd321f4",
+          "description": "I just want peace",
+          "likes": 30,
+          "date": "December 12, 2022",
+          "comments": [
+            {
+              "username": "Jasterino",
+              "id": 2,
+              "comment": "I love this one!",
+              "date": "september 6, 2023"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

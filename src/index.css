@@ -1,0 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #222;
+  color: white;
+}
+
+@layer components {
+  .content-container {
+    height: calc(100dvh);
+  }
+
+  .bga {
+    background-color: rgba(236, 196, 196, 0.278);
+  }
+  .bgb {
+    background-color: rgba(177, 177, 177, 0.292);
+  }
+  .bgc {
+    background-color: rgba(120, 161, 128, 0.292);
+  }
+}
+
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #534f4f;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #1a181894;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #7a7272;
+}
